@@ -1,2 +1,4 @@
 /citra/*
 /mgba/*
+!/citra/.gitkeep
+!/mgba/.gitkeep
